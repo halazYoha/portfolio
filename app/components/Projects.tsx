@@ -8,7 +8,7 @@ const projects = [
   {
     title: 'Edu-Pulse',
     description: 'A comprehensive school system management platform with four roles: admin, parent, student, and teacher. Streamlines school operations efficiently.',
-    tech: ['Next.js', 'React', 'Node.js', 'MongoDB'],
+    tech: ['Next.js', 'React', 'Node.js', 'PostgreSQL'],
     icon: Globe,
     color: 'from-blue-500 to-cyan-500',
     link: 'https://edu-pulse-opal.vercel.app/',
@@ -28,7 +28,7 @@ const projects = [
   {
     title: 'Kids Learn English',
     description: 'Interactive Flutter application for children education with engaging animations and gamified learning experience to teach English.',
-    tech: ['Flutter', 'Dart', 'Firebase', 'Animations'],
+    tech: ['Flutter', 'Dart', 'nodejs', 'express'],
     icon: Smartphone,
     color: 'from-green-500 to-emerald-500',
     link: '#',
